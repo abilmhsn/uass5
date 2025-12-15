@@ -1,0 +1,9 @@
+{
+  "name": "PeduliSampah",
+  "description": "A smart waste classification app using Gemini AI to identify waste types, estimate value, and provide recycling advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
